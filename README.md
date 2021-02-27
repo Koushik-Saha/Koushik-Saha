@@ -15,6 +15,6 @@ I’m looking for help with very good knowledge about React JS and Laravel Frame
 My very interest in the React ecosystem.
 
 My other interest in traveling & all type of food 😄😄😄 <br /> <br />
-<center><a href="https://bitbucket.org/Koushik666/"><img src="https://i.postimg.cc/c497Xqt6/bitbucket.png" width="50" height="50"> </a> <a href="https://github.com/Koushik-Saha"><img src="https://i.postimg.cc/25cVfmmB/github.png" width="50" height="50"> </a> <a href="https://www.linkedin.com/in/koushik-saha20/"><img src="https://i.postimg.cc/TwKhdSYN/linkedin.png" width="50" height="50"> </a> <a href="https://stackoverflow.com/users/4700694/koushik-saha"><img src="https://i.postimg.cc/134zc2Dm/stack-overflow.png" width="50" height="50"> </a> <a href="https://www.facebook.com/KoushikSaha678/"><img src="https://i.postimg.cc/brbJbtnQ/facebook.png" width="50" height="50"> </a>
-</center><br/>
-<center><a href="https://koushik-saha.github.io/"> Full RESUME</a></center>
+<div align="center"><a href="https://bitbucket.org/Koushik666/"><img src="https://i.postimg.cc/c497Xqt6/bitbucket.png" width="50" height="50"> </a> <a href="https://github.com/Koushik-Saha"><img src="https://i.postimg.cc/25cVfmmB/github.png" width="50" height="50"> </a> <a href="https://www.linkedin.com/in/koushik-saha20/"><img src="https://i.postimg.cc/TwKhdSYN/linkedin.png" width="50" height="50"> </a> <a href="https://stackoverflow.com/users/4700694/koushik-saha"><img src="https://i.postimg.cc/134zc2Dm/stack-overflow.png" width="50" height="50"> </a> <a href="https://www.facebook.com/KoushikSaha678/"><img src="https://i.postimg.cc/brbJbtnQ/facebook.png" width="50" height="50"> </a>
+</div><br/>
+<div align="center"><a href="https://koushik-saha.github.io/"> Full RESUME</a></div>
