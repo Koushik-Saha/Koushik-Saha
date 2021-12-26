@@ -21,6 +21,14 @@ My other interest in traveling & all type of food 😄😄😄 <br /> <br />
 <br/>
 <br/>
 <br/>
-<div align="right">
-  <a href="https://app.daily.dev/koushik1995"><img src="https://api.daily.dev/devcards/112a3e4847a742fca1f719f85d2f9c09.png?r=gup" width="400" alt="Koushik Saha's Dev Card"/></a>
-</div>
+<table>
+  <tr>
+    <td valign="top">
+        <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Koushik-Saha&show_icons=true&locale=en&theme=radical" alt="Koushik_Saha" /></p><br/>
+            <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koushik-Saha&langs_count=8" alt="Koushik_Saha" /></p>
+    </td>
+    <td valign="top" align="right">
+        <a href="https://app.daily.dev/koushik1995"><img src="https://api.daily.dev/devcards/112a3e4847a742fca1f719f85d2f9c09.png?r=gup" width="400" alt="Koushik Saha's Dev Card"/></a>
+    </td>
+  </tr>
+</table>
