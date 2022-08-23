@@ -1,6 +1,6 @@
 # Hi, I'm Koushik Saha 😎 🖖
 
-<img src="https://i.postimg.cc/J4J6y2Hg/Koushik-Saha-3.png" alt="banner that says Koushik Saha - Software Engineer, Front-End Developer & React js Enthusiastic">
+<img src="https://i.postimg.cc/J4J6y2Hg/Koushik-Saha-3.png" alt="banner that says Koushik Saha - Software Engineer, Front-End Developer & React JS Enthusiastic">
 
 ### I'm a software engineer who is passionate about making open-souce more accessible, creating technology to elevate people. 
 
